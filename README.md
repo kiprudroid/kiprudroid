@@ -1,4 +1,4 @@
-- 👋 Hi, Shadrack Kipruti
+- 👋 Hi, Shadrack Kipruto
 - 👀 I’m interested in Web Dev and awesome CSS creations
 - 🌱 I’m currently learning Jquery and other js libraries
 - 💞️ I’m looking to collaborate on all projects
