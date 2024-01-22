@@ -1,7 +1,7 @@
 - 👋 Hi, Shadrack Kipruto
 - 👀 I’m interested in Web Dev and awesome CSS creations
-- 🌱 I’m currently learning Jquery and other js libraries
-- 💞️ I’m looking to collaborate on all projects
+- 🌱 I’m currently  advancing my skill in Javascript
+- 💞️ I’m looking forward to collaborating with you
 - 📫 How to reach me :IG @_sha.ddy_kips
 
 <!---
