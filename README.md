@@ -1,7 +1,7 @@
 - 👋 Hi, i am Shadrack Kipruto .
-- 
--I am a MERN stack developer.
--I am currently Progressing in JavaScript
+  
+- I am a MERN stack developer.
+- I am currently Progressing in JavaScript
 - I create android apps using Jetpack compose
 
 
